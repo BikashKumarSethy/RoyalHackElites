@@ -81,9 +81,6 @@ Implementation of Mobile app with all the features will reduce the maintenance o
 ### IBM technology
 
 - [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
-- [Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
-- [Watson Speech to Text](https://www.ibm.com/cloud/watson-speech-to-text)
-- [Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
 - [IBM Cloud Functions](https://cloud.ibm.com/functions/)
 - [IBM Cloudant DB](https://www.ibm.com/cloud/cloudant/)
 - [IBM Watson Studio](https://cloud.ibm.com/functions/)

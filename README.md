@@ -57,7 +57,7 @@ Implementation of Mobile app with all the features will reduce the maintenance o
 
 ### Website integration with Zero Hunger communication chatbot
 
-![ZHunger Architecture diagram](/Images/ZHunger IBM Architecture.png)
+![ZHunger IBM Architecture](/Images/ZHunger IBM Architecture.png)
 
 1.	User visits a website or App with the ZHunger chatbot and tells he/she is hungry.
 2.	Node.js web server calls the Watson Assistant service hosted in IBM Cloud.

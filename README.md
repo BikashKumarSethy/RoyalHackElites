@@ -57,7 +57,7 @@ Implementation of Mobile app with all the features will reduce the maintenance o
 
 ### Website integration with COVID-19 crisis communication chatbot
 
-![ZHunger Architecture diagram](/Images/Architecture.jpg)
+![ZHunger Architecture diagram](/Images/ZHunger IBM Architecture.jpg)
 
 1.	User visits a website or App with the ZHunger chatbot and tells he/she is hungry.
 2.	Node.js web server calls the Watson Assistant service hosted in IBM Cloud.

@@ -55,7 +55,7 @@ Implementation of Mobile app with all the features will reduce the maintenance o
 
 ## Diagrams
 
-### Website integration with COVID-19 crisis communication chatbot
+### Website integration with Zero Hunger communication chatbot
 
 ![ZHunger Architecture diagram](/Images/ZHunger IBM Architecture.png)
 
